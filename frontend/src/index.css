@@ -1,0 +1,28 @@
+.input-group {
+  position: relative;
+}
+.sping-form-loading {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.table-hover tbody tr:hover {
+  color: #fff !important;
+}
+
+/* Statistics */
+.seofct-icon {
+  color: #fff;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.seofct-icon i {
+  font-size: 20px;
+  margin-right: 5px;
+  vertical-align: middle;
+  -webkit-transform: translateY(-5px);
+  transform: translateY(-5px);
+  display: inline-block;
+}
